@@ -47,7 +47,6 @@ Based on the extracted contents of your "Hit Song Prediction" project, here's a 
    - `key`
 3. Submit the form to get the prediction (HIT or FLOP).
 
-## Datasets
-
+Datasets
 The datasets used for model training consist of various attributes of songs from different decades (60s to 10s). They are included in the project for further analysis or retraining.
----
+
